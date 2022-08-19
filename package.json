@@ -35,11 +35,11 @@
     "type"
   ],
   "dependencies": {
-    "file-type": "^4.2.0"
+    "file-type": "^17.1.6"
   },
   "devDependencies": {
     "ava": "*",
-    "pify": "^2.3.0",
+    "pify": "^6.0.0",
     "xo": "*"
   }
 }
